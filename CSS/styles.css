@@ -1,0 +1,384 @@
+/* NAVBAR SECTION */
+#navbarNav {
+  margin-right: 19%;
+}
+
+#nav-bar {
+  background-color: #EEEEEE;
+  font-family: "Lato", sans-serif;
+}
+
+.navbar-brand {
+  margin-left: 15.6%;
+  padding-left: 12px;
+  font-weight: 500;
+  font-size: 30px !important;
+  color: #39b54a !important;
+  font-family: "Lato", sans-serif;
+}
+
+.navbar-brand img {
+  height: 30px;
+  padding-bottom: 8px;
+}
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.bi-list {
+  color: #4D4646 !important;
+  font-size: 30px !important;
+}
+
+.navbar-toggler {
+  padding: 0 20% 0 0 !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #EEEEEE !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0 !important;
+}
+
+.tradingview-widget-container {
+  padding-left: 16%;
+  padding-right: 20%;
+  padding-top: 20px;
+  background-color: #EEEEEE;
+}
+
+/* BANNER SECTION */
+#banner-section {
+  background-color: #EEEEEE;
+}
+
+.banner-title {
+  margin-top: 150px;
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  font-family: "Lato", sans-serif;
+}
+
+.banner-text {
+  margin-bottom: 40px;
+  font-family: 'Heebo', sans-serif;
+  font-size: 18px;
+}
+
+.btn {
+  margin-bottom: 30px;
+}
+
+.img-fluid {
+  margin-top: 125px;
+  padding-left: 20px;
+}
+
+/* FEATURES SECTION */
+#features-section {
+  padding-top: 200px;
+  background-color: #EEEEEE;
+}
+
+.card-title {
+  padding-bottom: 10px;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+}
+
+.card1 {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.card2-img {
+  width: 17.5% !important;
+  margin-top: 20px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.card2-img-ed {
+  width: 17.5% !important;
+  margin-top: 28px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.card-text {
+  font-family: "Heebo", sans-serif;
+  font-weight: 300;
+}
+
+/* PRICING SECTION */
+#pricing-section {
+  padding: 200px 0;
+  background-color: #EEEEEE;
+}
+
+.btn2 {
+  margin-top: 70px;
+}
+
+.btn3 {
+  margin-top: 12px;
+}
+
+.btn4 {
+  margin-top: 35px;
+}
+
+/* TESTIMONIAL SECTION */
+#testimonial-section {
+  background-color: #EEEEEE;
+  position: relative;
+  width: 100%;
+  min-height: 80vh;
+  justify-content: center;
+  display: flex;
+  overflow: hidden;
+}
+
+.swiper {
+  width: 425px;
+  height: 100%;
+  position: absolute;
+  top: 50%;
+  align-items: center;
+  background-color: #EEEEEE;
+  overflow: visible !important;
+  padding-bottom: 30px !important;
+}
+
+.container {
+  height: 100%;
+  overflow: hidden !important;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 320px;
+  box-shadow: 0 5px 50px rgba(0,0,0,0.05);
+  filter: blur(4px);
+  border-radius: 10px;
+  background: #EEEEEE;
+}
+
+.swiper-slide-active {
+  filter: blur(0px);
+}
+
+
+.testimonialBox {
+  background-color: #FFF;
+  position: relative;
+  width: 100%;
+  padding: 40px;
+  padding-top: 90px;
+  color: #999;
+  border-radius: 10px;
+}
+.swiper-3d .swiper-slide-shadow-left, .swiper-3d .swiper-slide-shadow-right {
+  background-image: none !important;
+}
+
+.testimonial-text {
+  font-family: "Heebo", sans-serif;
+}
+
+.testimonial-name {
+  font-family: "Lato", sans-serif;
+  color: black;
+}
+
+.testimonial-header {
+  background-color: #EEEEEE;
+  padding-bottom: 70px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+
+}
+
+
+/* FOOTER SECTION */
+#footer-section {
+  text-align: center;
+  padding-bottom: 50px;
+  background-color: #EEEEEE;
+}
+
+.footer-section2 {
+  text-align: center;
+  padding-bottom: 50px;
+  background-color:#EEEEEE;
+  padding-top: 100px;
+}
+
+/* ABOUT US PAGE */
+
+#about-us-page {
+  background-color: #EEEEEE;
+}
+
+.aboutus-container {
+  padding-top: 80px;
+  background-color: #EEEEEE;
+}
+
+.about-us-title {
+  text-align: center;
+  padding: 0 10%;
+  font-family: "Lato",sans-serif;
+}
+
+.about-us-text {
+  text-align: center;
+  padding: 0 20%;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  font-family: "Heebo", sans-serif;
+  font-size: 18px;
+}
+
+.pill-text {
+  padding: 0 10%;
+  text-align: center;
+  font-family: "Heebo", sans-serif;
+  padding-bottom: 10px;
+}
+
+.text-border {
+  border: 2px;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: gray;
+  margin: 0 20%;
+  text-align: center;
+  padding: 5px;
+}
+
+.nav-pills .nav-item .nav-link.active {
+  background-color: #39b54a;
+  box-shadow: none;
+}
+
+.nav-pills .nav-item .nav-link {
+  color: #39B54A;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.img-fluid2 {
+  margin-top: 125px;
+  padding-left: 350px;
+  width: auto;
+  height: 500px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.ab-title {
+  padding-top: 70px;
+}
+
+
+.icon-img {
+  margin: 20px 10px;
+}
+
+.ab-cards {
+  padding-top: 140px;
+}
+
+.card-ab {
+  background-color: #EEEEEE;
+  text-align: center;
+}
+
+.disclaimer {
+  color: black;
+}
+
+/* Memberships Page */
+
+.memberships-title {
+  text-align: center;
+  padding: 0 5%;
+  font-family: "Lato",sans-serif;
+  font-weight: 600;
+}
+
+#pricing-section2 {
+    background-color: #EEEEEE;
+  }
+
+#form-page {
+  background-color: #EEEEEE;
+}
+
+.about-us-text2 {
+  text-align: center;
+  padding: 0 20%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-family: "Heebo", sans-serif;
+  font-size: 18px;
+}
+
+.ab-cards2 {
+  padding-top: 40px;
+}
+
+@media (max-width: 768px) {
+  .container-about {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  #banner-section {
+    text-align: center;
+  }
+}
+
+  .card1 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+  .img-fluid {
+    padding-top: 150px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .img-fluid {
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .img-fluid2 {
+    text-align: center;
+    padding: 0;
+  }
+}
+
+@media (max-width: 766px) {
+  #features-section {
+    padding-top: 20px;
+  }
+}
+
+  @media (min-width: 300px) and (max-width: 500px) {
+    .swiper {
+      width: 300px;
+    }
+  }
